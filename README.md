@@ -25,28 +25,6 @@ This project is intended as a demonstration of HTML and CSS skills, focusing on 
 *   HTML5
 *   CSS3
 
-## Getting Started
-
-To run this website locally, follow these steps:
-
-1.  **Clone the repository:**
-
-    ```bash
-    git clone [repository URL]
-    ```
-
-    (Replace `[repository URL]` with the actual URL of your GitHub repository)
-
-2.  **Navigate to the project directory:**
-
-    ```bash
-    cd [project directory name]
-    ```
-
-    (Replace `[project directory name]` with the name of your project directory)
-
-3.  **Open the `index.html` file in your web browser.**
-
 ## Project Structure
 
 The project directory typically contains the following files:
